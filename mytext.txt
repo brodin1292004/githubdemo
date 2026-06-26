@@ -1,0 +1,10 @@
+Step1:
+go inside the directory that you want to monitor using 'cd' command
+Step2:
+create contents inside the directory eg: created a file mycode.txt and added two lines
+Then saved the file. check the file using "Is" command (to list the contents inside the directory)
+step3:
+before committing, we need to add the files to staging so that git can keep track of the changes git add mycode.txt (just in case,to remove the file from staging git rm --cached mycode.txt)
+
+step4:
+now check the status using git status and the file will appear green, its 
