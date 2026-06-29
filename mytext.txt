@@ -7,4 +7,8 @@ print("my fourth line and to the text")
 =======
 print("my fourth line to the text")
 print("my fifth line to the text")
+<<<<<<< HEAD
 >>>>>>> 8c556d0f21f8061a66181db86182dec489531ecc
+=======
+print("my sixth line to the text")
+>>>>>>> cfb072db2cb421416b1c529be0a1985dcff01051
